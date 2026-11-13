@@ -10,6 +10,7 @@ https://centropaulasouza-my.sharepoint.com/:p:/r/personal/arthur_vertuli_aluno_c
 README.md<img width="1313" height="843" alt="Captura de tela 2026-10-28 004122 - Copia (2)" src="https://github.com/user-attachments/assets/84abefa9-5a7b-44f6-b933-f1b8b9394210" />
 README.md<img width="1313" height="844" alt="Captura de tela 2026-10-28 002943 - Copia" src="https://github.com/user-attachments/assets/6e40927b-4a19-4302-aae7-f8d3a7229b83" />
 <img width="1358" height="811" alt="Captura de tela 2026-11-13 225519" src="https://github.com/user-attachments/assets/0d2808e3-e594-4e7e-928a-6441cce13a58" />
+<img width="1636" height="827" alt="Captura de tela 2026-11-13 233840" src="https://github.com/user-attachments/assets/0ec8ff10-3ed7-418b-b8e5-964a03fa8c9a" />
 
 
 
